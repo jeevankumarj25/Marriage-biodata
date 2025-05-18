@@ -73,10 +73,10 @@ const BiodataPage: React.FC = () => {
             content: (
               <ul className="space-y-2">
                 <li><strong>Date of Birth:</strong> 03 July 1996</li>
-                <li><strong>Time of Birth:</strong> 11:43 PM</li>
-                <li><strong>Rashi:</strong> Vrishabha (Taurus)</li>
-                <li><strong>Nakshatra:</strong> Rohini</li>
-                <li><strong>Height:</strong> 5'8"</li>
+                <li><strong>Time of Birth:</strong> 12:15 PM</li>
+                <li><strong>Rashi:</strong> Capricorn (Makara)</li>
+                <li><strong>Nakshatra:</strong> Shravana</li>
+                <li><strong>Height:</strong> 5'7"</li>
               </ul>
             ),
           },
